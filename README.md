@@ -5,7 +5,10 @@
   <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=MariJuan20&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marijuan20&layout=compact&langs_count=7&theme=react" />
     
-<img align="center" width="148" height="180" src="https://giphy.com/embed/1vsnXLl0sYBNHlpkBE">
+<img align="right" width="148" height="180" src="https://media.giphy.com/media/bYANPLQO3fO0dSI0JI/giphy.gif">
+    <img align="left" width="148" height="180" src="https://media.giphy.com/media/AomI82PTI57vWL8fpM/giphy.gif"> 
+        </div>
+   
  <br>
 <div  align="center"> 
   <div style="display: inline_block"><br>
