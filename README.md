@@ -4,9 +4,8 @@
   <a href="https://github.com/MARIJUAN20">
   <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=MariJuan20&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marijuan20&layout=compact&langs_count=7&theme=react" />
-
- <div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/1vsnXLl0sYBNHlpkBE" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/1vsnXLl0sYBNHlpkBE">via GIPHY</a></p>
-</div>
+    
+<img align="center" width="148" height="180" src="https://giphy.com/embed/1vsnXLl0sYBNHlpkBE">
  <br>
 <div  align="center"> 
   <div style="display: inline_block"><br>
