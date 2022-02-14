@@ -29,6 +29,5 @@
  
 </div>
  
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=MARIJUAN20&repo=MARIJUAN20&theme=react)](https://github.com/MARIJUAN20/MARIJUAN20)
  
 
