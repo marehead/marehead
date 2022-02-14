@@ -6,7 +6,7 @@
   <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MARIJUAN20&layout=compact&langs_count=7&theme=react" />
 
 <img align="right" width="145" height="180" src="https://media.giphy.com/media/Clv1f8Q6v7ol5dXD1l/giphy.gif">
-    <img align="left" width="148" height="180" src="https://media.giphy.com/media/AomI82PTI57vWL8fpM/giphy.gif">
+  
 </div>
  <br>
 <div  align="center"> 
