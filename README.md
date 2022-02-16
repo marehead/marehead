@@ -1,7 +1,7 @@
 <h1> Hi! i'm There </h1>
 
 <div>
-  <a href="https://github.com/MARIJUAN20">
+  <a href="https://github.com/mlopes20">
   <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=MARIJUAN20&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MARIJUAN20&layout=compact&langs_count=7&theme=react" />
 
@@ -25,7 +25,7 @@
   <a href="" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/MARIJUAN20/ELLEN2121/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/mlopes20/ELLEN2121/blob/output/github-contribution-grid-snake.svg)
  
 </div>
  
