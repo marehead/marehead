@@ -1,4 +1,5 @@
-<h1>Hello World! my name is Marina, i'm black people QueerNon-binary👩🏾‍💻</h1>
+<h1>Hello World!</H1>
+<h2>My name is Marina, i'm black people QueerNon-binary👩🏾‍💻</h2>
 <h2 align="left">Technologies | Formation | Professional Experience | Contact networks | Studies</h2>
 <p align="left" >🛠⚙️📍🚧</p>
 
