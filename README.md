@@ -1,6 +1,6 @@
 <h1> Hi, my name is Marina, i'm black people queer non-binary of technology👩🏾‍💻</h1>
-<h2 align="center">Formation | Professional Experience | Contact networks | Studies</h2>
-<p align="center" >🛠⚙️📍🚧</p>
+<h2 align="left">Formation | Professional Experience | Contact networks | Studies</h2>
+<p align="left" >🛠⚙️📍🚧</p>
 
 <li>🖥️Informatics(TI)</li>
 <li>👨🏾‍💻Programming: Front-end, HTML, CSS, JavaScript, Back-end, Node, React, Python, mySQL </li>
