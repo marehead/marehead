@@ -1,6 +1,8 @@
-<h1> Hi, my name is Marina, i'm black people queer non-binary of technology</h1>
+<h1> Hi, my name is Marina, i'm black people queer non-binary of technology👩🏾‍💻</h1>
 <p></p>
 <h2>Formation | Professional Experience | Contact networks | Studies</h2>
+<p>🛠⚙️📍🚧</p>
+
 
 <div>
   <a href="https://github.com/mlopes20">
