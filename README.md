@@ -2,8 +2,12 @@
 <p></p>
 <h2>Formation | Professional Experience | Contact networks | Studies</h2>
 <p>🛠⚙️📍🚧</p>
-
-
+<li>🖥️Informatics(TI)</li>
+<li>👨🏾‍💻Programming: Front-end, HTML, CSS, JavaScript, Back-end, Node, React, Python, mySQL </li>
+<li>🎬Audiovisual: Photography, Dir.Photography, Camera Assistance, Light and Lighting, Camera Operation </li>
+<li>🧪Tech(nology): Lab-AWS, SysOps, DevOps, Cloud Systems Administration, MachineLearning, IoT, AI, Ubuntu </li>
+<li>🌍Language: Intermediate English, Basic French, Basic Spanish, Native Portuguese </li>
+<br>
 <div>
   <a href="https://github.com/mlopes20">
   <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=mlopes20&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
