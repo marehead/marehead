@@ -25,7 +25,7 @@
   <img align="center" alt="CSS" height="30" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Python" height="30" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="PHP" height="30" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img align="center" alt="M-react" height="30" width="60" src="https://codesandbox.io/dashboard/home?workspace=9d876f74-5250-4bf5-9749-1d00973b4f76/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="M-react" height="30" width="60" src="https://raw.githubusercontent.com/home?workspace=9d876f74-5250-4bf5-9749-1d00973b4f76/devicons/devicon/master/icons/react/react-original.svg">
                       
   <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="" target="_blank"> 
