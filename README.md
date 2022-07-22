@@ -5,7 +5,7 @@
 
 <li>🖥️Informatics(TI)</li>
 <li>👨🏾‍💻Programming: Front-end, HTML, CSS, JavaScript, Back-end, Node, React, Python, mySQL </li>
-<li>🧪 Tech(nology): Lab-AWS, SysOps, DevOps, Cloud Systems Administration, MachineLearning, IoT, AI, Ubuntu</li></p>
+<li>🧪 Tech(nology): Learning Lab-AWS, SysOps, DevOps, Cloud Systems Administration, MachineLearning, IoT, AI, Ubuntu</li></p>
 <br>
 <div>
   <a href="https://github.com/mlopezlr">
