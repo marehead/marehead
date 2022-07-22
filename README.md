@@ -5,7 +5,6 @@
 
 <li>🖥️Informatics(TI)</li>
 <li>👨🏾‍💻Programming: Front-end, HTML, CSS, JavaScript, Back-end, Node, React, Python, mySQL </li>
-<li>🎬Audiovisual: Photography, Dir.Photography, Camera Assistance, Light and Lighting, Camera Operation</li>
 <li>🧪 Tech(nology): Lab-AWS, SysOps, DevOps, Cloud Systems Administration, MachineLearning, IoT, AI, Ubuntu</li></p>
 <br>
 <div>
