@@ -25,6 +25,7 @@
   <img align="center" alt="Python" height="30" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="PHP" height="30" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <a href="https://codesandbox.io/dashboard/home?workspace=9d876f74-5250-4bf5-9749-1d00973b4f76" target="_blank"><img align="center" alt="M-React" height="30" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> 
+    <a href="https://codepen.io/Marinalopess" target="_blank"><img align="center" alt="CSS" height="30" width="60" src="https://camo.githubusercontent.com/792cf3367c3effdc0287f8a96ed626c85a20893bafd3e75a8d25e65d40be279e/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f636f646570656e2f636f646570656e2d706c61696e2e737667" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-plain.svg">
                       
   <a href="https://www.linkedin.com/in/marinalopesdossantos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="marinadocs28@gmail.com" target="_blank"> 
