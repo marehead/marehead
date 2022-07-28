@@ -1,5 +1,5 @@
 <h1>🖖🏿Hello There, Welcome!🧿</h1>
-<h2>i'm black people Queer not binarie🏳️‍🌈</h2>
+<h2>I'm black peoples Queer not binarie🏳️‍🌈</h2>
 <h2 align="left">👩🏾‍💻Technologies | Formation | Professional Experience | Contact networks | Studies</h2>
 <p align="left" ></p>
 
