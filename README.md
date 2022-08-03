@@ -1,4 +1,4 @@
-<h1>🖖🏿Hello There, Welcome!🧿</h1>
+<h1>🖖🏿Hello There, Welcome!</h1>
 <h2>My Name is Marina Lopes, i'm a person black Queer not binarie🏳️‍🌈</h2>
 <h2 align="left">👩🏾‍💻Technologies | Formation | Professional Experience | Contact networks | Studies</h2>
 <p align="left" ></p>
