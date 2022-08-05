@@ -1,5 +1,5 @@
 # 🖖🏿Hello There, Welcome!
-<h2> 🐱‍🚀My Name is Marina Lopes, i'm a person black Queer not binarie🏳️‍🌈<h2>
+<h2>🐱‍👓My Name is Marina Lopes, i'm a person black Queer not binarie🏳️‍🌈<h2>
 <h2 align="left">👩🏾‍💻Technologies | Formation | Professional Experience | Contact networks | Studies</h2>
 <p align="left" ></p>
 
@@ -11,8 +11,8 @@
 <br>
 <div>
   <a href="https://github.com/mlopezlr">
-  <img height="200em"   align="center" src="https://github-readme-stats.vercel.app/api?username=mlopezlr&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="200em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mlopezlr&layout=compact&langs_count=7&theme=react" />
+  <img height="150em"   align="center" src="https://github-readme-stats.vercel.app/api?username=mlopezlr&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="150em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mlopezlr&layout=compact&langs_count=7&theme=react" />
 </div>
 <div  align="center"> 
   <div style="display: inline_block"><br>
