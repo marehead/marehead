@@ -1,22 +1,16 @@
 # 🖖🏿Hello There, Welcome!
-<h2>🐱‍👓My Name is Marina i'm a person black Queer not binarie🏳️‍🌈<h2>
-
-<h2 align="left">👩🏾‍💻Technologies | Formation | Professional Experience | Contact networks | Studies</h2>
-<p align="left" ></p>
-
-* 🌱Currently I'm curious learning and practicing AWS, Python, JAVA and Javascript, among other programming languages
-# Beginnings:
+<h2 align="left"> 🐱‍👓My Name is Marina i'm a person black Queer not binarie🏳️‍🌈<h2></h3>
+<h6>🌱Currently I'm curious learning and practicing AWS, Python, JAVA and Javascript, among other programming languages</h6>  
+<h3 align="left"> 📝Beginnings | 👩🏾‍💻Technologies | Formation | Professional Experience | Contact networks | Studies</h3>
+<p align="left" ></p>  
 <h6>🖥️Informatics: Excel, Powerpoint, Word, TI 2014 </h6>
 <h6>👨🏾‍💻Programming: Front-end, HTML, CSS, JavaScript, Back-end, Node, React, Python, mySQL | 2021 </h6>
 <h6>🧪 Tech(nology): Learning Lab-AWS, SysOps, DevOps, Cloud Systems Administration, MachineLearning, IoT, AI, Ubuntu | 2022 </h6>
-
 <div>
   <a href="https://github.com/mlopezlr">
-  <img height="160em"   align="center" src="https://github-readme-stats.vercel.app/api?username=mlopezlr&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="200em"   align="right" src="https://github-readme-stats.vercel.app/api?username=mlopezlr&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   <img height="190em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mlopezlr&layout=compact&langs_count=7&theme=react" />
 </div> 
-
-
 <div  align="center"> 
   <div style="display: inline_block"><br>
   <img align="center" alt="M-python" height="60" width="70" src="https://camo.githubusercontent.com/dd8b0601cdfefe534a6a26f4c29c7f8a5fcfc315002655f519c73121f7bad8bc/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f707974686f6e2f707974686f6e2d6f726967696e616c2e737667" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="max-width: 100%;">
