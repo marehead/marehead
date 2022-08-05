@@ -1,8 +1,9 @@
-# 🖖🏿Hello There, Welcome!
-<h2 align="left"> 🐱‍👓My Name is Marina i'm a person black Queer not binarie🏳️‍🌈<h2></h3>
-* 🌱Currently I'm curious learning and practicing AWS, Python, JAVA and Javascript, among other programming languages
+<h1> 🖖🏿Hello There, Welcome! </h1>
+<h2 align="left"> 🐱‍👓My Name is Marina i'm a person black Queer not binarie🏳️‍🌈<h2>
+<h6>🌱Currently I'm curious learning and practicing AWS, Python, JAVA and Javascript, among other programming languages<h6>
 <h3 align="left"> 📝Beginnings | Technologies | Formation | Professional Experience | Contact networks | Studies</h3>
 <p align="left" ></p>  
+  
 * 🖥️Informatics: Excel, Powerpoint, Word, TI 2014
 * 👨🏾‍💻Programming: Front-end, HTML, CSS, JavaScript, Back-end, Node, React, Python, mySQL | 2021 
 * 🧪 Tech(nology): Learning Lab-AWS, SysOps, DevOps, Cloud Systems Administration, MachineLearning, IoT, AI, Ubuntu | 2022 
