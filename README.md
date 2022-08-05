@@ -8,8 +8,8 @@
 <h6>🧪 Tech(nology): Learning Lab-AWS, SysOps, DevOps, Cloud Systems Administration, MachineLearning, IoT, AI, Ubuntu | 2022 </h6>
 <div>
   <a href="https://github.com/mlopezlr">
-  <img height="200em"   align="right" src="https://github-readme-stats.vercel.app/api?username=mlopezlr&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="200em"  align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mlopezlr&layout=compact&langs_count=7&theme=react" />
+  <img height="200em"   align="center" src="https://github-readme-stats.vercel.app/api?username=mlopezlr&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="200em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mlopezlr&layout=compact&langs_count=7&theme=react" />
 </div> 
 <div  align="center"> 
   <div style="display: inline_block"><br>
