@@ -1,7 +1,7 @@
 # 🖖🏿Hello There, Welcome!
 <h2 align="left"> 🐱‍👓My Name is Marina i'm a person black Queer not binarie🏳️‍🌈<h2></h3>
 <h6>🌱Currently I'm curious learning and practicing AWS, Python, JAVA and Javascript, among other programming languages</h6>  
-<h3 align="left"> 📝Beginnings | 👩🏾‍💻Technologies | Formation | Professional Experience | Contact networks | Studies</h3>
+<h3 align="left"> 📝Beginnings | Technologies | Formation | Professional Experience | Contact networks | Studies</h3>
 <p align="left" ></p>  
 <h6>🖥️Informatics: Excel, Powerpoint, Word, TI 2014 </h6>
 <h6>👨🏾‍💻Programming: Front-end, HTML, CSS, JavaScript, Back-end, Node, React, Python, mySQL | 2021 </h6>
