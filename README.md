@@ -1,11 +1,12 @@
 <h1>🖖🏿Hello There, Welcome!</h1>
-<h2>My Name is Marina Lopes, i'm a person black Queer not binarie🏳️‍🌈</h2>
+<h2>🐱‍🚀My Name is Marina Lopes, i'm a person black Queer not binarie🏳️‍🌈</h2>
 <h2 align="left">👩🏾‍💻Technologies | Formation | Professional Experience | Contact networks | Studies</h2>
 <p align="left" ></p>
-
-<li>🖥️Informatics(TI)</li>
-<li>👨🏾‍💻Programming: Front-end, HTML, CSS, JavaScript, Back-end, Node, React, Python, mySQL </li>
-<li>🧪 Tech(nology): Learning Lab-AWS, SysOps, DevOps, Cloud Systems Administration, MachineLearning, IoT, AI, Ubuntu</li></p>
+* 
+* 🌱Currently I'm curious learning and practicing AWS, Python, JAVA and Javascript, among other programming languages
+<li>🖥️Informatics(TI) 2014 </li>
+<li>👨🏾‍💻Programming: Front-end, HTML, CSS, JavaScript, Back-end, Node, React, Python, mySQL | 2021 </li>
+<li>🧪 Tech(nology): Learning Lab-AWS, SysOps, DevOps, Cloud Systems Administration, MachineLearning, IoT, AI, Ubuntu | 2022</li></p>
 <br>
 <div>
   <a href="https://github.com/mlopezlr">
