@@ -1,6 +1,6 @@
 <h1> 🖖🏿Hello There, Welcome! </h1>
-<h2 align="left"> 🐱‍👓My Name is Marina i'm a person black Queer not binarie🏳️‍🌈<h2>
-<h6>🌈elu/they🌱Currently I'm curious learning and practicing AWS, Python and Javascript, among other programming languages<h6>
+<h2 align="left"> 🐱‍👓My Name is Marina i'm a person black Queer not binarie🌈elu/they<h2>
+<h6>🌱Currently I'm curious learning and practicing AWS, Python and Javascript, among other programming languages<h6>
 <div>
   <a href="https://github.com/mlopezlr">
   <img height="150em"   align="center" src="https://github-readme-stats.vercel.app/api?username=mlopezlr&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
