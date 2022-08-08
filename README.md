@@ -1,5 +1,5 @@
-<h1> 🖖🏿Hello There, Welcome! </h1>
-<h2 align="left"> 🐱‍👓My Name is Marina i'm a person black Queer not binarie🌈elu/they<h2>
+<h1> 🐱‍👓Hello There, Welcome!🖖🏿</h1>
+<h2 align="left">My Name is Marina i'm a person black Queer not binarie elu/they<h2>
 <h6>🌱Currently I'm curious learning and practicing AWS, Python and Javascript, among other programming languages<h6>
 <div>
   <a href="https://github.com/mlopezlr">
