@@ -1,8 +1,8 @@
-<h1>🪂Hi There, Welcome!🖖🏿</h1>
-<h6 align="left">🐱‍👓Name is Marina i'm a person black Queer no binarie </h6>
-<h6>🌱Currently I'm learning and practicing Linux, AWS, Python and Javascript</h6> 
-<h6>⚡Curious among other programming languages and tecnologies<h6>
-<H6>🌈pronoms: elu/they</h6>  
+<h1 align="center">🪂Hi There, Welcome!🖖🏿</h1>
+<h2 align="left">🐱‍👓Name is Marina i'm a person black Queer no binarie </h2>
+<h4>🌱Currently I'm learning and practicing Linux, AWS, Python and Javascript</h4> 
+<h4>⚡Curious among other programming languages and tecnologies<h4>
+<h4>🌈pronoms: elu/they</h4>  
 <div>
   <a href="https://github.com/mlopezlr">
   <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=mlopezlr&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
