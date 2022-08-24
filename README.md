@@ -1,6 +1,6 @@
 <h1 align="center">🪂Hi There, Welcome!🖖🏿</h1>
 <h2 align="left">🐱‍👓My name is Marina i'm a person black Queer no binarie </h2>
-<h4>🌱Currently I'm learning and practicing Linux, AWS, Python and Javascript</h4> 
+<h4>🎑Currently I'm learning and practicing Linux, AWS, Python and Javascript</h4> 
 <h4>⚡Curious among other programming languages and tecnologies<h4>
 <h4>🐱‍🐉Fun fact: I like to generate ideas and think about what is life<h4>
 <h4>🌈pronoms: elu/they</h4>  
