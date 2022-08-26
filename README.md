@@ -1,9 +1,9 @@
 # 🪂Hi There, Welcome!🖖🏿</h1>
-* 🐱‍👓My name is Marina i'm a person black Queer no binarie
-* 🎑Currently I'm learning and practicing Linux, AWS, Python and Javascript
-* ⚡Curious among other programming languages and tecnologies
-* 🐱‍🐉Fun fact: I like to generate ideas and think about what is life
-* 🌈pronoms: elu/they
+#### 🐱‍👓My name is Marina i'm a person black Queer no binarie
+#### 🎑Currently I'm learning and practicing Linux, AWS, Python and Javascript
+#### ⚡Curious among other programming languages and tecnologies
+#### 🐱‍🐉Fun fact: I like to generate ideas and think about what is life
+#### 🌈pronoms: elu/they
 <div>
   <a href="https://github.com/marehead">
   <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=marehead&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
