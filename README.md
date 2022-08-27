@@ -1,5 +1,5 @@
 # 🪂Hi There, Welcome!🖖🏿</h1>
-* 🐱‍👓My name is Marina i'm a person black Queer no binarie, I am part of the first Sysops class of the ImpulsoTec Program.
+* 🐱‍👓My name is Marina i'm a person black Queer no binarie, I am part of the first class Sysops of the ImpulsoTec Program.
 * 🎑Currently I'm lerning and practicing Linux, AWS, Python and Javascript and studying course online: cc50 
 * ⚡Curious among other programming languages and tecnologies
 * 🐱‍🐉Fun fact: I like to generate ideas and think about what is life
