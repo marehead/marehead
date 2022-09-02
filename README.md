@@ -4,7 +4,7 @@
 * 👩🏽‍💻Currently I'm learning practicing Linux, AWS, Cloud Computing, Python and Javascript
 * 📚studying Science Computing in course online: cs50 of harvard
 * ⚡Curious among other programming languages and tecnologies
-* 🐱‍🐉Fun fact: I like to generate ideas and think about what is life
+* 🐱‍🐉Fun fact: I love Music more than food
 * 🌈pronoms: elu/they
 <div>
   <a href="https://github.com/marehead">
