@@ -3,7 +3,7 @@
 * 🐱‍🚀I am part of the first class Sysops of the ImpulsoTec Program.
 * 👩🏽‍💻Currently I'm learning practicing Linux, AWS, Cloud Computing, Python and Javascript
 * 📚studying Science Computing in course online: cs50 of harvard
-* ⚡Curious among other programming languages and tecnologies
+* ⚡Curious among other programming languages and IT
 * 🐱‍🐉Fun fact: I love Music more than food
 * 🌈pronoms: elu/they
 <div>
