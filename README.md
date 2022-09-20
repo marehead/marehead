@@ -1,5 +1,5 @@
 # 🐱‍👓Hi There, Welcome! 
-# 🪂 My name is Marina i'm a person black Queer not binarie
+# 🪂 My name is Marina i'm a person black Queer no binarie
 - 👩🏽‍💻Currently I'm learning practicing Linux, AWS, Cloud Computing, Python and Javascript
 - 🐱‍🚀I am part of the first class Sysops of the ImpulsoTec Program.
 - 📚studying Science Computing in course online: cc50 of harvard
