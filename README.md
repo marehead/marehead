@@ -1,4 +1,5 @@
 # 🪂 Hi I'm a person black Queer nobinarie
+[about me](https://github.com/marehead/about-me/blob/main/README.md)
 <div>
   <a href="https://github.com/marehead">
   <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=marehead&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
