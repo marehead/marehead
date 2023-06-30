@@ -1,10 +1,4 @@
 # 🪂 Hi I'm a person black Queer nobinarie
-- 👩🏽‍💻Currently I'm learning practicing Linux, AWS, Cloud Computing, Python and Javascript
-- 🐱‍🚀I am part of the first class Sysops of the ImpulsoTec Program.
-- 📚studying Science Computing in course online: cc50 of harvard
-- ⚡Curious among other programming languages and IT
-- 🐱‍🐉Fun fact: I love Music more than food
-- 🌈pronoms: elu/they
 <div>
   <a href="https://github.com/marehead">
   <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=marehead&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
