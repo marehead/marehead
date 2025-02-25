@@ -1,4 +1,4 @@
-# 🪂 Hi I'm a person black Queer nobinarie
+# 🪂 
 [about me](https://github.com/marehead/about-me/blob/main/README.md)
 <div>
   <a href="https://github.com/marehead">
