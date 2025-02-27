@@ -1,7 +1,7 @@
 -💟Programação e Audiovisual💟
 - 🏳️‍🌈Trans NB
 - 23 anos
--📚estudos📚
+- 📚estudos📚
 - 👩🏽‍💻Atualmente eu sou aluno do projeto Transforme-se (Gerando Falcões + Senac + Serasa Experian)
 - 🐱‍🚀Fiz parte da primeira turma de Sysops do Programa ImpulsoTec.
 - ⚡Curioso entre outras linguagens de programação e TI
