@@ -1,5 +1,5 @@
 -💟Programação e Audiovisual💟
-- 🏳️‍🌈gêneroqueer 
+- 🏳️‍🌈Trans NB
 - 23 anos
 -📚estudos📚
 - 👩🏽‍💻Atualmente eu sou aluno do projeto Transforme-se (Gerando Falcões + Senac + Serasa Experian)
