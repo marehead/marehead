@@ -1,5 +1,4 @@
-- 🏳️‍🌈Trans NB
-- 🌈pronomes: ela/ele/elu/eles
+- 🏳️‍🌈Trans N
 - 23 anos
 - 📚estudos📚
 - 👩🏽‍💻Atualmente eu sou aluno do projeto Transforme-se (Gerando Falcões + Senac + Serasa Experian)
